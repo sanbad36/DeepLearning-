@@ -1,2 +1,2 @@
-#Deep Learning Repository
-![Intro](/intro)
+# Deep Learning Repository
+![Intro](/intro.gif)
